@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactFactsProject/static/css/main.0a8bf109.css",
+    "main.js": "/ReactFactsProject/static/js/main.339467ce.js",
+    "static/media/reactlogo2.svg": "/ReactFactsProject/static/media/reactlogo2.8fc211f27a8ddc40e189.svg",
+    "index.html": "/ReactFactsProject/index.html",
+    "main.0a8bf109.css.map": "/ReactFactsProject/static/css/main.0a8bf109.css.map",
+    "main.339467ce.js.map": "/ReactFactsProject/static/js/main.339467ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a8bf109.css",
+    "static/js/main.339467ce.js"
+  ]
+}
